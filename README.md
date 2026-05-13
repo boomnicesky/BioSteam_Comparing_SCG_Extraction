@@ -14,6 +14,6 @@ Ensure you have Python 12 and the BioSteam framework installed:
 
 ```bash
 pip install biosteam
-
-##Authors
-Surachet Soontontaweesub (Ph.D. Candidate, JGSEE/KMUTT)
+```
+## 🙏 Acknowledgements
+This research and simulation project were made possible through the support and guidance of several individuals and institutions. I would like to express my deepest gratitude to the **BioSTEAM** development team for providing an excellent open-source framework for biorefinery simulation and design.
