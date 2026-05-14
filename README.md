@@ -18,6 +18,6 @@ pip install biosteam
 ## 🙏 Acknowledgements
 This research and simulation project were made possible through the support and guidance of several individuals and institutions. I would like to express my deepest gratitude to the **BioSTEAM** development team for providing an excellent open-source framework for biorefinery simulation and design.
 
-#Caleb Bell, Yoel Rene Cortes-Pena, Contributors (2016-2022). chemicals: Chemical properties component of Chemical Engineering Design Library (ChEDL) CalebBell/chemicals.#
-#Caleb Bell (2016-2022). fluids: Fluid dynamics component of Chemical Engineering Design Library (ChEDL) CalebBell/fluids.#
-#Caleb Bell and Contributors (2016-2022). thermo: Thermodynamics and Phase Equilibrium component of Chemical Engineering Design Library (ChEDL) CalebBell/thermo.#
+<br>#Caleb Bell, Yoel Rene Cortes-Pena, Contributors (2016-2022). chemicals: Chemical properties component of Chemical Engineering Design Library (ChEDL) CalebBell/chemicals.
+<br>#Caleb Bell (2016-2022). fluids: Fluid dynamics component of Chemical Engineering Design Library (ChEDL) CalebBell/fluids.
+<br>#Caleb Bell and Contributors (2016-2022). thermo: Thermodynamics and Phase Equilibrium component of Chemical Engineering Design Library (ChEDL) CalebBell/thermo.
